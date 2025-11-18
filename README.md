@@ -18,7 +18,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-# Hi, I'm **Evrim*
+# Hi, I'm **Evrim**
 
 A frontend developer who builds dark, clean and modern interfaces.  
 I love designing smooth micro-interactions, minimal layouts, and neon-accented UI experiments.
