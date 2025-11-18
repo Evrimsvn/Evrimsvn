@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=evrimsvn&label=Profile%20Views&color=00ff77&style=flat-square" />
 
-<p align="center">
+<div align="center">
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⣒⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -94,6 +94,6 @@ System Notes ཐི^.  ̞.^ཋྀ
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-</p>
+</div>
 
 
