@@ -32,7 +32,7 @@ I love designing smooth micro-interactions, minimal layouts, and neon-accented U
 **Frameworks:** React • Next.js  
 **Styling:** TailwindCSS • Sass • Styled Components  
 **Tools:** Git • VSCode • Figma  
-**Interests:** UI/UX • animations • component systems • dark themes • hacker/terminal aesthetics
+**Interests:** UI/UX • animations • component systems • dark themes 
 
 ## Featured Projects (coming soon) 🕸
 **UI Components Library – reusable & aesthetic
@@ -40,7 +40,8 @@ I love designing smooth micro-interactions, minimal layouts, and neon-accented U
 **React Motion Lab – animation experiments
 **JS Playground – practice & prototypes
 
-System Notes ཐི^.  ̞.^ཋྀ
+
+## System Notes ཐི^.  ̞.^ཋྀ
 **Low light, and silence switch me into dev mode
 **Coffee stabilizes the system; calm thoughts boost performance
 **I build faster when I control every variable in my space
