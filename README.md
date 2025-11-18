@@ -2,6 +2,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=evrimsvn&label=Profile%20Views&color=00ff77&style=flat-square" />
 
+<p align="center">
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⣒⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -39,7 +41,7 @@ I love designing smooth micro-interactions, minimal layouts, and neon-accented U
 **JS Playground – practice & prototypes
 
 System Notes ཐི^.  ̞.^ཋྀ
-**Lo-fi beats, low light, and silence switch me into dev mode
+**Low light, and silence switch me into dev mode
 **Coffee stabilizes the system; calm thoughts boost performance
 **I build faster when I control every variable in my space
 **Debugging is my guilty pleasure — I do it even when no one asked
@@ -92,5 +94,6 @@ System Notes ཐི^.  ̞.^ཋྀ
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
+</p>
 
 
