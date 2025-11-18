@@ -33,10 +33,10 @@ I love designing smooth micro-interactions, minimal layouts, and neon-accented U
 **Interests:** UI/UX • animations • component systems • dark themes • hacker/terminal aesthetics
 
 ## Featured Projects (coming soon) 🕸
-UI Components Library – reusable & aesthetic
-Dark Portfolio – minimal, animated, neon-green accents
-React Motion Lab – animation experiments
-JS Playground – practice & prototypes
+**UI Components Library – reusable & aesthetic
+**Dark Portfolio – minimal, animated, neon-green accents
+**React Motion Lab – animation experiments
+**JS Playground – practice & prototypes
 
 System Notes ཐི^.  ̞.^ཋྀ
 **Lo-fi beats, low light, and silence switch me into dev mode
@@ -94,26 +94,3 @@ System Notes ཐི^.  ̞.^ཋྀ
 
 
 
-## 💻 Terminal
-```bash
-> evrim@github:~$ npm run create
-Designing dark UI...
-Refactoring components...
-Adding neon-green glow...
-Done ✔
-
-
-<!--
-**Evrimsvn/Evrimsvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
