@@ -41,11 +41,7 @@ I love designing smooth micro-interactions, minimal layouts, and neon-accented U
 **JS Playground – practice & prototypes
 
 
-## System Notes ཐི^.  ̞.^ཋྀ
-**Low light, and silence switch me into dev mode
-**Coffee stabilizes the system; calm thoughts boost performance
-**I build faster when I control every variable in my space
-**Debugging is my guilty pleasure — I do it even when no one asked
+
 ---
 
 
